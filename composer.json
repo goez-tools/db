@@ -1,0 +1,23 @@
+{
+    "name": "goez/db",
+    "description": "Goez Database Component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jace Ju",
+            "email": "jaceju@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">= 3.7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Goez": "src/"
+        }
+    }
+}
